@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Trivia</string>
+
+    <!--Strings del first fragment  -->
+    <string name="titulo_first_fragment">Bienvenido a la trivia de Ides para programar para comenzar escribe tu nombre:</string>
+    <string name="edittext_first_fragment">Escribe tu nombre aqui...</string>
+    <string name="boton_first_fragment">COMENZAR</string>
+
+    <!--Strings del second fragment -->
+    <string name="titulo_second_fragment">Hola...</string>
+    <string name="descripcion_imagen">Logo visual studio</string>
+    <string name="pregunta_second_fragment">A que IDE pertenece este logo</string>
+    <string name="opcion1">Visual Estudio Code</string>
+    <string name="opcion2">Netbeans</string>
+    <string name="opcion3">Visual Estudio</string>
+    <string name="opcion4">PyCharm</string>
+    <string name="boton_second_fragment">SELECCIONAR</string>
+
+    <!--Strings del third fragment -->
+    <string name="respuesta_por_defecto">Buen intento, vuelve a intentarlo</string>
+    <string name="botorn_third_fragment">VOLVER A INTENTAR</string>
+
+    <!--Strings del fourth fragment -->
+    <string name="descripcion_imagen2">Logo python</string>
+    <string name="pregunta_third_fragment">A que IDE pertenece este logo</string>
+    <string name="opcion5">Thonny</string>
+    <string name="opcion6">PyCharm</string>
+    <string name="opcion7">Visual Estudio Code</string>
+    <string name="opcion8">Spyder</string>
+    <string name="boton_third_fragment">SELECCIONAR</string>
+
+    <!--Strings del fifth fragment -->
+    <string name="respuesta_por_defecto2">Buen intento, vuelve a intentarlo</string>
+    <string name="boton_fifth_fragment">VOLVER A INTENTAR</string>
+
+</resources>
